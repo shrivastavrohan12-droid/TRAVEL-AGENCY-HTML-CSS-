@@ -1,15 +1,33 @@
-# Travel Agency Website
+# Travel Agency
 
-This project is part of my HTML and CSS revision journey. I built a simple Travel Agency landing page to reinforce core concepts such as semantic HTML, CSS styling, layouts, Flexbox . The focus of this project is on improving coding practices while creating a clean and user-friendly interface.
+A simple Travel Agency landing page built to reinforce core concepts such as semantic HTML, CSS styling, layouts, and Flexbox.
 
+## 🛠️ Tech Stack
+HTML, CSS
 
-## Features
-- Modern UI
-- Clean Code
+## 🔍 Preview
 
-## Technologies Used
-- HTML5
-- CSS3
+### Home & Mobile View
+<p align="center">
+  <img src="./screenshots/home-page.png" width="45%" alt="Home Page" />
+  <img src="./screenshots/mobile-responsive.png" width="45%" alt="Mobile Responsive" />
+</p>
 
-## Author
-Rohan 
+### Services Section
+![Services Section](./screenshots/services-section.png)
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/shrivastavrohan12-droid/TRAVEL-AGENCY-HTML-CSS-.git
+cd TRAVEL-AGENCY-HTML-CSS-
+# No installation required, simply open index.html in your browser
+```
+
+## 📁 Project Structure
+- `index.html`: Main HTML file containing the structure of the landing page.
+- `style.css`: Stylesheet with layout and design for the page.
+- `screenshots/`: Visual previews of the project.
+
+## 📌 Notes
+Built to practice responsive design, focusing on improving coding practices while creating a clean and user-friendly interface.
